@@ -7,6 +7,7 @@ A command-line application to manage income, expenses, and view financial report
 - Add income & expenses
 - Categorize transactions
 - View total income, expenses, and savings
+- Data storage using SQLite3
 
 ## Installation
 ```bash
